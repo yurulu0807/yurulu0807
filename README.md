@@ -1,6 +1,6 @@
 ## Hi👋
 I’m currently working on 輔仁大學\
-I’m currently learning History\
+I’m currently learning History
 
 <!--
 **yurulu0807/yurulu0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

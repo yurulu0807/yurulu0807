@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 I’m currently working on 輔仁大學\
 I’m currently learning\
 How to reach me:luyuru.0807@gmail.com

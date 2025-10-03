@@ -1,5 +1,7 @@
 ## Hi there 👋
 I’m currently working on 輔仁大學
+I’m currently learning 
+How to reach me:luyuru.0807@gmail.com
 <!--
 **yurulu0807/yurulu0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
